@@ -1,7 +1,7 @@
 const HomePage = ()=>{
     return (
         <div>
-            This is HomePage Component
+            This is HomePage Component.
         </div>
     );
 }
